@@ -1,0 +1,6 @@
+aiogram==3.13.1
+Pillow==10.4.0
+numpy==1.26.4
+aiohttp==3.10.10
+python-dotenv==1.0.1
+rlottie-python
